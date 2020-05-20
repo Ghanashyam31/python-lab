@@ -7,3 +7,4 @@ install:
 script: 
   - python fabonacci.py
   - python Birthdate_Info_New_func.py
+  - python displayDate.py
