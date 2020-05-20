@@ -6,3 +6,4 @@ install:
   - pip install -r requirements.txt  
 script: 
   - python fabonacci.py
+  - python Birthdate_Info_New_func.py
