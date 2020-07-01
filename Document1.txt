@@ -19,4 +19,5 @@ MATLAB file test3:
 MATLAB file test4:
 MATLAB file test5:
 MATLAB file test6:
-MATLAB file test6:
+MATLAB file test7:
+MATLAB file test8:
