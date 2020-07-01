@@ -1,0 +1,13 @@
+#!/usr/bin/python
+
+print("Aurobindo Pharma 15 @ 180", (15*180))
+
+https://www.ssa.gov/oact/babynames/limits.html
+https://ndb.nal.usda.gov/ndb/
+https://raw.githubusercontent.com/pandas-dev/pandas/master/pandas/tests/data/tips.csv
+
+
+
+MATLAB:
+https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/
+https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-introductory-usage-py
