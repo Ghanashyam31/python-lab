@@ -14,12 +14,3 @@ https://matplotlib.org/tutorials/introductory/usage.html#sphx-glr-tutorials-intr
 
 MATLAB file test:
 MATLAB file test1:
-MATLAB file test2:
-MATLAB file test3:
-MATLAB file test4:
-MATLAB file test5:
-MATLAB file test6:
-MATLAB file test7:
-MATLAB file test8:
-MATLAB file test9:
-MATLAB file test10:
