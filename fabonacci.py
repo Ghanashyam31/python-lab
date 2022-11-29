@@ -2,6 +2,9 @@ from datetime import datetime
 import random
 import re
 
+print("---------------------")
+
+
 listTwo=['1. "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment."',
 '2. "The trouble is, you think you have time."',
 '3. "Happiness will never come to those who fail to appreciate what they already have."',
