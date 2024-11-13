@@ -1,0 +1,26 @@
+Bulletin,Update,Severity,Custom Severity,Release Date,Compliance,Applicable (Count),Installed (Count),Not Installed (Count)
+MS24-06-W10-5039217,windows10.0-kb5039217-x64-1809.msu,Critical,Not Set,6/11/2024,0.00%,655,0,655
+MS24-06-W10-5039214,windows10.0-kb5039214-x64-1607.msu,Critical,Not Set,6/11/2024,0.00%,658,0,658
+MS24-06-SSU-5039334,windows10.0-kb5039334-x64-1607.msu,Critical,Not Set,6/11/2024,0.00%,1992,0,1992
+NPPP-240603,npp.8.6.8.Installer.x64.exe,Unclassified,Not Set,6/3/2024,0.00%,2034,0,2034
+MS24-04-MRNET-5037034,windows10.0-kb5036604-x64-1809.msu,Important,Not Set,4/9/2024,0.00%,660,0,660
+MS22-08-5012170,windows10.0-kb5012170-x64-1607.msu,Critical,Not Set,8/9/2022,100.00%,662,662,0
+MS22-08-5012170,windows10.0-kb5012170-x64-1809.msu,Critical,Not Set,8/9/2022,100.00%,660,660,0
+NPPP-220215,npp.8.3.1.Installer.x64.exe,Unclassified,Not Set,2/15/2022,5.00%,2041,102,1939
+NPPP-220124,npp.8.2.1.Installer.x64.exe,Unclassified,Not Set,1/24/2022,5.00%,2041,102,1939
+NPPP-210927,npp.8.1.5.Installer.x64.exe,Unclassified,Not Set,9/27/2021,5.00%,2041,102,1939
+MS21-08-SSU-5005112,windows10.0-kb5005112-x64-1809.msu,Critical,Not Set,8/10/2021,100.00%,660,660,0
+MS21-04-OFF-4504738,mso2010-kb4504738-fullfile-x64-glb.exe,Important,Not Set,4/13/2021,2.37%,2661,63,2598
+MS21-01-OFF-4493143,ace2010-kb4493143-fullfile-x64-glb.exe,Important,Not Set,1/12/2021,2.37%,2661,63,2598
+MS20-10-AFP-4580325,windows10.0-kb4580325-x64-1607.msu,Critical,Not Set,10/13/2020,33.07%,2002,662,1340
+MS20-10-AFP-4580325,windows10.0-kb4580325-x64-1809.msu,Critical,Not Set,10/13/2020,100.00%,660,660,0
+NPPP-089,npp.7.6.4.Installer.x64.exe,Unclassified,Not Set,3/6/2019,0.00%,1939,0,1939
+MS11-025_V2,vc2010SP1redist2565063_x64.exe,Important,Not Set,10/9/2018,100.00%,1,1,0
+MS11-025_V2,vc2010SP1redist2565063_x86.exe,Important,Not Set,10/9/2018,100.00%,2622,2622,0
+MS18-07-OFF-4022206,ose2010-kb4022206-fullfile-x64-glb.exe,Unclassified,Not Set,7/10/2018,2.37%,2661,63,2598
+MS18-05-W10-4103723,windows10.0-kb4103723-x64-RS1.msu,Critical,Not Set,5/8/2018,100.00%,2002,2002,0
+NPPP-081,npp.7.5.6.Installer.x64.exe,Unclassified,Not Set,3/19/2018,99.90%,1939,1937,2
+MS18-02-OFF,mso2010-kb4011707-fullfile-x64-glb.exe,Critical,Not Set,2/13/2018,2.37%,2661,63,2598
+NPPP-079,npp.7.5.4.Installer.x64.exe,Unclassified,Not Set,1/2/2018,99.90%,1939,1937,2
+NPPP-071,npp.7.3.3.Installer.x64.exe,Unclassified,Not Set,3/9/2017,99.90%,1939,1937,2
+NPPP-063,npp.7.Installer.x64.exe,Unclassified,Not Set,9/22/2016,99.90%,1939,1937,2
